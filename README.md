@@ -13,6 +13,12 @@ To write a program to find the LU Decomposition of a matrix.
 3. Perform scipy.linalg.lu to find the pivot table, lower triangle and upper triangle matrix.
 4. End the Program.
 
+  
+1. Import the numpy module and scipy.linalg module to use the built-in functions for calculation.
+2. Prepare the lists from each linear equations and assign in np.array().
+3. Perform scipy.linalg.lu to find the pivot table, lower triangle and upper triangle matrix.
+4. End the Program
+
 ## Program:
 (i) To find the L and U matrix
 ```
